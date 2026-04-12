@@ -1,6 +1,6 @@
 # Reconocimiento de Especies de Aves a través del Análisis de Espectrogramas de Canto
 
-Este repositorio documenta el **Análisis Exploratorio de Datos (EDDA)** y la construcción integral del *Pipeline End-to-End* para el preprocesamiento de características acústicas (*Feature Extraction*) orientado a problemas de Deep Learning.
+Este repositorio documenta el **Análisis Exploratorio de Datos (EDA)** y la construcción integral del *Pipeline End-to-End* para el preprocesamiento de características acústicas (*Feature Extraction*) orientado a problemas de Deep Learning.
 
 El fin último de este sistema es extraer, purgar y homogeneizar vocalizaciones de aves obtenidas de grabaciones de campo, preparándolas para entregar **Tensores 2D estandarizados (256x256 pixeles)** a las Redes Neuronales Convolucionales (CNN) más modernas.
 
